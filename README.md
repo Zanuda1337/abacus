@@ -1,3 +1,3 @@
 # Тестовое задание "Верстка абакусов(счетов)"
 
-Доступно на [github pages](https://google.com).
+Доступно на [GitHub Pages](https://https://zanuda1337.github.io/abacus/).
